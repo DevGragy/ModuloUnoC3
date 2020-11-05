@@ -12,12 +12,6 @@
 
 ### git checkout nombrerama - mueve a rama
 
-<<<<<<< HEAD
 ### git checkout master - Nos mueve a la rama master
 
-### git pull -
-=======
-### git checkout master -
-
-### git merge -
->>>>>>> f913439e9b0ea18c36934e0d0fc2ffeaf2ae004a
+### git pull origin develop- Trae los cambios de la rama develop
